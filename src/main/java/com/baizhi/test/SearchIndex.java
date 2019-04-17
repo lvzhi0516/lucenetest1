@@ -35,6 +35,7 @@ public class SearchIndex {
             System.out.println("作者"+document.get("author"));
             System.out.println("内容"+document.get("content"));
             System.out.println("时间"+document.get("date"));
+            System.out.println("时间"+document.get("date"));
         }
     }
 
